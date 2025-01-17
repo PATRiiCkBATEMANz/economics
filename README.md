@@ -1,0 +1,2 @@
+# economics
+Collection of notes
